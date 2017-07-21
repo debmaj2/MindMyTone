@@ -5,16 +5,20 @@ When was the last time you felt irritated by that quirky ring-tone of your phone
 
 So, what do you do? Keep your phone in silent mode? And often, miss your important calls and notifications. Luckily, you have someone to 'mind your phone's tone'.
 
-MindMyTone intelligently syncs **Googles' location info, Meeting Reminders, Office Hours, Weather data, voice input and sleeping hours** to make your phone ring in the right way on the right time or occasion.
+MindMyTone intelligently syncs **Google's location info, Meeting Reminders, Office Hours, Weather data, voice input and sleeping hours** to make your phone ring in the right way on the right time or occasion.
 
 Being Silent is now a myth!
 
 -MindMyTone Dev Team
-*-HumBuddyOfficial-*
-**-PrograMManiac's Lab**
+
+-Promoted by *HumBuddyOfficial*
+
+-Another work from the **PrograMManiac's Lab**
 
 
-PrograMManiaC's Hotline: https://t.me/debmaj2 (Telegram)
-E-mail: debmaj2in@gmail.com 
+>**Contact us:**
 
+>>PrograMManiaC's Hotline: https://t.me/debmaj2 (Telegram)
+
+>>E-mail: debmaj2in@gmail.com 
 
