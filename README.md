@@ -11,7 +11,7 @@ Being Silent is now a myth!
 
 -MindMyTone Dev Team
 
--Promoted by *HumBuddyOfficial*
+-Promoted by *HumBuddyOfficial* (https://www.facebook.com/humbuddyofficial/)
 
 -Another work from the **PrograMManiac's Lab**
 
@@ -22,3 +22,4 @@ Being Silent is now a myth!
 
 >>E-mail: debmaj2in@gmail.com 
 
+Details of this ptoject is updated regularly in the https://github.com/debmaj2/MindMyTone/edit/Introductory-Branch-(by-the-author)/ branch of the project. The master branch is updated once a mojor change is made.
